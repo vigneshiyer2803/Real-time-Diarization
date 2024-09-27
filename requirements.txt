@@ -1,0 +1,7 @@
+torch
+librosa
+transformers
+datasets
+scikit-learn
+numpy
+pyannote.metrics
